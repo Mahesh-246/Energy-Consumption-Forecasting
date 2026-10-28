@@ -1,0 +1,6 @@
+# Runtime dependencies for the XGBoost-only Streamlit deployment
+streamlit
+pandas
+numpy
+joblib
+xgboost
